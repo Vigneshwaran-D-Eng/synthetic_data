@@ -1,0 +1,15 @@
+# For Core Logic & Azure/OpenAI SDKs
+python-dotenv
+azure-ai-formrecognizer==3.3.2
+openai>=1.12.0
+opencv-python-headless
+numpy
+Pillow
+
+# For Streamlit UI
+streamlit
+
+# For FastAPI Endpoint
+fastapi
+uvicorn[standard]
+python-multipart
